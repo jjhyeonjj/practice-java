@@ -20,4 +20,4 @@ public class P125_4_3 {
 		}System.out.println(sum);
 	}
 
-}
+} 
