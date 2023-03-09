@@ -13,5 +13,5 @@ public class H0201 {
 		System.out.println(won+"원은 "+"$"+dollar+"입니다.");
 		
 		scan.close();
-	}
+	} 
 }
